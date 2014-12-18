@@ -15,6 +15,7 @@
  * @link       http://www.php.net/manual/fr/book.pdo.php
  */
 
+//ajout d'une ligne en commentaire pour le test de gitHub pour M.Espie
 
 class PdoHtAuto
 {   		
